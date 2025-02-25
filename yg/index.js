@@ -3,8 +3,8 @@ const { navigation } = require('./navigation')
 const getIdBrands = require('./getIdBrands')
 const getIdProducts = require('./getIdProducts')
 const getProduct = require('./getProduct')
-const appendJsonObject = require('./lib/appendJsonObject')
-const { insertData, checkSeriesIdx } = require('./lib/mongoClient')
+const appendJsonObject = require('../lib/appendJsonObject')
+const { insertData, checkSeriesIdx } = require('../lib/mongoClient')
 
 async function init() {
   for (let i = 0; i < navigation.length; i++) {

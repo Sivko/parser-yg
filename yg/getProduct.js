@@ -1,7 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const https = require('https');
-const downloadImage = require('./lib/downloadImage');
 
 const config = { httpsAgent: new https.Agent({ rejectUnauthorized: false }) }
 

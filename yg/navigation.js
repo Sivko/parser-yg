@@ -1,7 +1,7 @@
 
 export const navigation = [
-  "https://product.yg1.solutions/resource/e_catalog/brand?root_category=1&category_idx=6&unit=Metric&option_name=",
-  "https://product.yg1.solutions/resource/e_catalog/brand?root_category=1&category_idx=7&unit=Metric&option_name=hole_type&option_value=Blind",
+  // "https://product.yg1.solutions/resource/e_catalog/brand?root_category=1&category_idx=6&unit=Metric&option_name=",
+  // "https://product.yg1.solutions/resource/e_catalog/brand?root_category=1&category_idx=7&unit=Metric&option_name=hole_type&option_value=Blind",
   "https://product.yg1.solutions/resource/e_catalog/brand?root_category=1&category_idx=29&unit=Metric&option_name=hole_type&option_value=Through",
   "https://product.yg1.solutions/resource/e_catalog/brand?root_category=2&category_idx=8&unit=Metric&option_name=hole_type&option_value=Blind",
   "https://product.yg1.solutions/resource/e_catalog/brand?root_category=2&category_idx=9&unit=Metric&option_name=hole_type&option_value=Through",
